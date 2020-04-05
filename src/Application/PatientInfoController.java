@@ -24,7 +24,7 @@ public class PatientInfoController {
 
   public Button updateButton;
 
-  
+
   private Statement stmt;
   private Connection conn;
 
